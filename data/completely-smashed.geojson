@@ -1,0 +1,2196 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "Ardbeg Distillery",
+      "Owner": "Glenmorangie Company Ltd",
+      "Description": "Islay Malt",
+      "Url": "https://www.ardbeg.com/en-gb",
+      "Address": "Isle of Islay",
+      "Postcode": "PA42 7EB",
+      "Lat": "55.6399588",
+      "Lng": "-6.1102298"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.1102298", "55.6399588"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Aberargie Distillery",
+      "Owner": "Perth Distilling Company",
+      "Description": "Lowland Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "PH2 9LX",
+      "Lat": "56.3345410",
+      "Lng": "-3.3458833"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3458833", "56.3345410"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Aberfeldy Distillery",
+      "Owner": "John Dewar & Sons Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.dewars.com/gl/en/aberfeldydistillery/",
+      "Address": "",
+      "Postcode": "PH15 2EB",
+      "Lat": "56.6270932",
+      "Lng": "-3.8477095"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.8477095", "56.6270932"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Aberlour Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.maltwhiskydistilleries.com/aberlour/",
+      "Address": "",
+      "Postcode": "AB38 9PJ",
+      "Lat": "57.4677684",
+      "Lng": "-3.2298941"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2298941", "57.4677684"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Abhainn Dearg Distillery",
+      "Owner": "Abhainn Dearg Distillery ",
+      "Description": "Highland Malt",
+      "Url": "https://www.abhainndearg.co.uk/",
+      "Address": "",
+      "Postcode": "HS2 9EX",
+      "Lat": "58.1571612",
+      "Lng": "-7.0501074"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-7.0501074", "58.1571612"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ailsa Bay Distillery",
+      "Owner": "William Grant & Sons Ltd",
+      "Description": "Lowland Malt",
+      "Url": "http://www.williamgrant.com/ailsabay_distillery.php",
+      "Address": "",
+      "Postcode": "KA26 9PT",
+      "Lat": "55.2588670",
+      "Lng": "-4.8348875"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.8348875", "55.2588670"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Allt A'Bhainne Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB55 4DI",
+      "Lat": "57.4943025",
+      "Lng": "-3.0305518"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0305518", "57.4943025"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Annandale Distillery",
+      "Owner": "Annandale Distillery Co Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://annandaledistillery.com/",
+      "Address": "",
+      "Postcode": "DG12 5LL",
+      "Lat": "55.0031735",
+      "Lng": "-3.2533775"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2533775", "55.0031735"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Arbikie Distillery",
+      "Owner": "Arbikie Distilling Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.arbikie.com/",
+      "Address": "",
+      "Postcode": "DD11 4UZ",
+      "Lat": "56.6447806",
+      "Lng": "-2.5588801"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.5588801", "56.6447806"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ardmore Distillery",
+      "Owner": "Beam Suntory",
+      "Description": "Highland Malt",
+      "Url": "https://www.ardmorewhisky.com/",
+      "Address": "",
+      "Postcode": "AB54 4NH",
+      "Lat": "57.3515046",
+      "Lng": "-2.7478249"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.7478249", "57.3515046"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ardnahoe Distillery",
+      "Owner": "Hunter Laing & Co Ltd",
+      "Description": "Islay Malt",
+      "Url": "https://ardnahoedistillery.com/",
+      "Address": "",
+      "Postcode": "PA46 7RU",
+      "Lat": "55.8754026",
+      "Lng": "-6.1293382"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.1293382", "55.8754026"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ardnamurchan Distillery",
+      "Owner": "Adelphi Distillery Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.adelphidistillery.com/",
+      "Address": "",
+      "Postcode": "PH36 4JG",
+      "Lat": "56.7004302",
+      "Lng": "-5.9511675"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.9511675", "56.7004302"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Auchentoshan Distillery",
+      "Owner": "Beam Suntory",
+      "Description": "Lowland Malt",
+      "Url": "https://www.auchentoshan.com/where-we-make-it",
+      "Address": "",
+      "Postcode": "G81 4SJ",
+      "Lat": "55.9225118",
+      "Lng": "-4.4391496"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.4391496", "55.9225118"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Auchroisk Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.diageo.com/",
+      "Address": "",
+      "Postcode": "AB55 3XS",
+      "Lat": "57.4943025",
+      "Lng": "-3.0305518"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0305518", "57.4943025"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Aultmore Distillery",
+      "Owner": "John Dewar & Sons Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB55 6QY",
+      "Lat": "57.5672130",
+      "Lng": "-3.0024710"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0024710", "57.5672130"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Balblair Distillery",
+      "Owner": "Inver House Distillers Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.balblair.com/",
+      "Address": "",
+      "Postcode": "IV19 1LB",
+      "Lat": "57.8448046",
+      "Lng": "-4.1765638"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.1765638", "57.8448046"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ballindalloch Distillery",
+      "Owner": "Ballindalloch Distillery LLP",
+      "Description": "Speyside Malt",
+      "Url": "https://www.ballindallochdistillery.com/",
+      "Address": "",
+      "Postcode": "AB37 9AA",
+      "Lat": "57.4078865",
+      "Lng": "-3.3682224"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3682224", "57.4078865"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Balmenach Distillery",
+      "Owner": "Inver House Distillers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "PH26 3PF",
+      "Lat": "57.3142033",
+      "Lng": "-3.5348890"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.5348890", "57.3142033"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Balvenie Distillery",
+      "Owner": "William Grant & Sons Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.thebalvenie.com/",
+      "Address": "",
+      "Postcode": "AB55 4DH",
+      "Lat": "57.4558506",
+      "Lng": "-3.1269154"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1269154", "57.4558506"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ben Nevis Distillery",
+      "Owner": "Ben Nevis Distillery (Fort William) Ltd",
+      "Description": "Highland Malt",
+      "Url": "http://www.bennevisdistillery.com/",
+      "Address": "",
+      "Postcode": "PH33 6TJ",
+      "Lat": "56.834879",
+      "Lng": "-5.073721"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.073721", "56.834879"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "BenRiach Distillery",
+      "Owner": "Brown-Forman Corporation",
+      "Description": "Speyside Malt",
+      "Url": "https://www.benriachdistillery.com/en-gb/",
+      "Address": "",
+      "Postcode": "IV30 8SJ",
+      "Lat": "57.6085631",
+      "Lng": "-3.2780025"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2780025", "57.6085631"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Benrinnes Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.diageo.com/",
+      "Address": "",
+      "Postcode": "AB38 9NN",
+      "Lat": "57.4425362",
+      "Lng": "-3.2339737"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2339737", "57.4425362"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Benromach Distillery",
+      "Owner": "Gordon & MacPhail Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.benromach.com/",
+      "Address": "",
+      "Postcode": "IV36 3EB",
+      "Lat": "57.6169585",
+      "Lng": "-3.6202216"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.6202216", "57.6169585"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bladnoch Distillery",
+      "Owner": "Bladnoch Distillery Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://bladnoch.com/",
+      "Address": "",
+      "Postcode": "DG8 9AB",
+      "Lat": "54.8594550",
+      "Lng": "-4.4606657"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.4606657", "54.8594550"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Blair Athol Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Highland Malt",
+      "Url": "http://www.blairatholdistillery.com/",
+      "Address": "",
+      "Postcode": "PH16 5LY",
+      "Lat": "56.6988279",
+      "Lng": "-3.7178534"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.7178534", "56.6988279"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "The Borders Distillery",
+      "Owner": "Three Stills Company Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://www.thebordersdistillery.com/",
+      "Address": "",
+      "Postcode": "TD9 7AQ",
+      "Lat": "55.4239193",
+      "Lng": "-2.7889395"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.7889395", "55.4239193"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bowmore Distillery",
+      "Owner": "Beam Suntory",
+      "Description": "Islay Malt",
+      "Url": "https://www.bowmore.com/",
+      "Address": "",
+      "Postcode": "PA43 7JS",
+      "Lat": "55.7566232",
+      "Lng": "-6.2908212"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.2908212", "55.7566232"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Braeval Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB37 9JS",
+      "Lat": "57.2575212",
+      "Lng": "-3.2244219"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2244219", "57.2575212"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bruichladdich Distillery",
+      "Owner": "Bruichladdich Distillery Co Ltd",
+      "Description": "Islay Malt",
+      "Url": "https://www.bruichladdich.com/",
+      "Address": "",
+      "Postcode": "PA49 7UN",
+      "Lat": "55.7757406",
+      "Lng": "-6.3597579"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.3597579", "55.7757406"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bunnahabhain Distillery",
+      "Owner": "Distell International Ltd",
+      "Description": "Islay Malt",
+      "Url": "https://bunnahabhain.com/",
+      "Address": "",
+      "Postcode": "PA46 7RP",
+      "Lat": "55.8830471",
+      "Lng": "-6.1265722"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.1265722", "55.8830471"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Cameronbridge Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Grain Whisky",
+      "Url": "https://www.diageo.com/",
+      "Address": "",
+      "Postcode": "KY8 5RL",
+      "Lat": "56.1888360",
+      "Lng": "-3.0581940"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0581940", "56.1888360"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Caol Ila Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Islay Malt",
+      "Url": "https://www.malts.com/en-row/distilleries/caol-ila/",
+      "Address": "",
+      "Postcode": "PA46 7RL",
+      "Lat": "55.8573766",
+      "Lng": "-6.1127759"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.1127759", "55.8573766"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Cardhu Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-gb/distilleries/cardhu?type=redirect",
+      "Address": "",
+      "Postcode": "AB38 7RY",
+      "Lat": "57.4732909",
+      "Lng": "-3.3574078"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3574078", "57.4732909"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Clydeside Distillery",
+      "Owner": "Morrison Glasgow Distillers",
+      "Description": "Lowland Malt",
+      "Url": "http://www.theclydeside.com/",
+      "Address": "",
+      "Postcode": "G3 8QQ",
+      "Lat": "55.8617444",
+      "Lng": "-4.2951347"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.2951347", "55.8617444"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Clynelish Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-gb/distilleries/clynelish/",
+      "Address": "",
+      "Postcode": "KW9 6LR",
+      "Lat": "58.0238549",
+      "Lng": "-3.8691716"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.8691716", "58.0238549"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Cragganmore Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-gb/distilleries/cragganmore?type=redirect",
+      "Address": "",
+      "Postcode": "AB37 9AB",
+      "Lat": "57.4142684",
+      "Lng": "-3.3941072"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3941072", "57.4142684"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Craigellachie Distillery",
+      "Owner": "John Dewar & Sons Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB38 9ST",
+      "Lat": "57.4887743",
+      "Lng": "-3.1973321"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1973321", "57.4887743"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Daftmill Distillery",
+      "Owner": "The Cuthbert Family",
+      "Description": "Lowland Malt",
+      "Url": "https://www.daftmill.com/",
+      "Address": "",
+      "Postcode": "KY15 5RF",
+      "Lat": "56.2975670",
+      "Lng": "-3.0993463"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0993463", "56.2975670"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Dailuaine Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-row/our-whisky-collection/dailuaine/",
+      "Address": "",
+      "Postcode": "AB38 7RE",
+      "Lat": "57.4568179",
+      "Lng": "-3.2839209"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2839209", "57.4568179"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Dalmore Distillery",
+      "Owner": "Whyte and Mackay Ltd",
+      "Description": "Highland Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV17 0UT",
+      "Lat": "57.6888976",
+      "Lng": "-4.2396612"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.2396612", "57.6888976"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Dalmunach Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB38 7QP",
+      "Lat": "57.4564171",
+      "Lng": "-3.2992914"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2992914", "57.4564171"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Dalwhinnie Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-gb/distilleries/dalwhinnie?type=redirect",
+      "Address": "",
+      "Postcode": "PH19 1AA",
+      "Lat": "56.9530519",
+      "Lng": "-4.1697718"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.1697718", "56.9530519"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Deanston Distillery",
+      "Owner": "Distell International Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.deanstonmalt.com/",
+      "Address": "",
+      "Postcode": "FK16 6AG",
+      "Lat": "56.1891145",
+      "Lng": "-4.0680948"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.0680948", "56.1891145"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Dornoch Distillery",
+      "Owner": "Dornoch Distillery Company",
+      "Description": "Highland Malt",
+      "Url": "https://www.thompsonbrosdistillers.com/",
+      "Address": "",
+      "Postcode": "IV25 3SD",
+      "Lat": "57.8796203",
+      "Lng": "-4.0287688"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.0287688", "57.8796203"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Dufftown Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.diageo.com/",
+      "Address": "",
+      "Postcode": "AB55 4BR",
+      "Lat": "57.4387734",
+      "Lng": "-3.1306231"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1306231", "57.4387734"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Eden Mill Distillery",
+      "Owner": "Eden Mill",
+      "Description": "Lowland Malt",
+      "Url": "https://www.edenmill.com/",
+      "Address": "",
+      "Postcode": "KY16 0UU",
+      "Lat": "56.3660542",
+      "Lng": "-2.8824076"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.8824076", "56.3660542"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Edradour Distillery",
+      "Owner": "Signatory Vintage Scotch Whisky Company",
+      "Description": "Highland Malt",
+      "Url": "https://www.edradour.com/",
+      "Address": "",
+      "Postcode": "PH16 5JP",
+      "Lat": "56.7008127",
+      "Lng": "-3.6865085"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.6865085", "56.7008127"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Fettercairn Distillery",
+      "Owner": "Whyte and Mackay Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.fettercairnwhisky.com/",
+      "Address": "",
+      "Postcode": "AB30 1YB",
+      "Lat": "56.8536922",
+      "Lng": "-2.5811867"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.5811867", "56.8536922"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Girvan and Ailsa Bay Distilleries",
+      "Owner": "William Grant & Sons Ltd",
+      "Description": "Grain Whisky and Lowland Malt",
+      "Url": "http://www.williamgrant.com/",
+      "Address": "",
+      "Postcode": "KA26 9PT",
+      "Lat": "55.2588670",
+      "Lng": "-4.8348875"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.8348875", "55.2588670"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glasgow Distillery",
+      "Owner": "Glasgow Distillery Co Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://glasgowdistillery.com/",
+      "Address": "",
+      "Postcode": "G52 4XB",
+      "Lat": "55.8626460",
+      "Lng": "-4.3587043"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.3587043", "55.8626460"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Elgin Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-au/our-whisky-collection/glen-elgin/",
+      "Address": "",
+      "Postcode": "IV30 3SL",
+      "Lat": "57.6221315",
+      "Lng": "-3.3553887"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3553887", "57.6221315"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Garioch Distillery",
+      "Owner": "Beam Suntory",
+      "Description": "Highland Malt",
+      "Url": "https://www.glengarioch.com/",
+      "Address": "",
+      "Postcode": "AB51 0ES",
+      "Lat": "57.3391284",
+      "Lng": "-2.3173139"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.3173139", "57.3391284"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Grant Distillery",
+      "Owner": "Glen Grant Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.glengrant.com/",
+      "Address": "",
+      "Postcode": "AB38 7BS",
+      "Lat": "57.5314722",
+      "Lng": "-3.2170790"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2170790", "57.5314722"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Keith Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB55 5BU",
+      "Lat": "57.5461028",
+      "Lng": "-2.9588933"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.9588933", "57.5461028"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Moray Distillery",
+      "Owner": "Glen Turner Company Ltd",
+      "Description": "Speyside Malt",
+      "Url": "http://www.glenmoray.com/",
+      "Address": "",
+      "Postcode": "IV30 1YE",
+      "Lat": "57.6444222",
+      "Lng": "-3.3437090"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3437090", "57.6444222"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Ord Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-row/home/",
+      "Address": "",
+      "Postcode": "IV6 7UJ",
+      "Lat": "57.5261274",
+      "Lng": "-4.4847831"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.4847831", "57.5261274"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Scotia Distillery",
+      "Owner": "Loch Lomond Group",
+      "Description": "Campbeltown",
+      "Url": "https://www.glenscotia.com/",
+      "Address": "",
+      "Postcode": "PA28 6DS",
+      "Lat": "55.4296708",
+      "Lng": "-5.6041220"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.6041220", "55.4296708"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glen Spey Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB38 7AT",
+      "Lat": "57.5259645",
+      "Lng": "-3.2073483"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2073483", "57.5259645"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "GlenAllachie Distillery",
+      "Owner": "GlenAllachie Distillers Company",
+      "Description": "Speyside Malt",
+      "Url": "https://www.theglenallachie.com/",
+      "Address": "",
+      "Postcode": "AB38 9LR",
+      "Lat": "57.4568435",
+      "Lng": "-3.2280532"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2280532", "57.4568435"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenburgie Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV36 0QY",
+      "Lat": "57.5701176",
+      "Lng": "-3.5971417"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.5971417", "57.5701176"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glencadam Distillery",
+      "Owner": "Angus Dundee Distillers plc",
+      "Description": "Highland Malt",
+      "Url": "http://www.glencadamwhisky.com/",
+      "Address": "",
+      "Postcode": "DD9 7PA",
+      "Lat": "56.7361797",
+      "Lng": "-2.6541416"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.6541416", "56.7361797"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glendronach Distillery",
+      "Owner": "Brown-Forman Corporation",
+      "Description": "Highland Malt",
+      "Url": "https://www.glendronachdistillery.com/en-gb/",
+      "Address": "",
+      "Postcode": "AB54 6DB",
+      "Lat": "57.4833590",
+      "Lng": "-2.6347091"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.6347091", "57.4833590"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glendullan Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.diageo.com/",
+      "Address": "",
+      "Postcode": "AB55 4DJ",
+      "Lat": "57.4483490",
+      "Lng": "-3.1154420"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1154420", "57.4483490"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenfarclas Distillery",
+      "Owner": "J & G Grant",
+      "Description": "Speyside Malt",
+      "Url": "https://glenfarclas.com/",
+      "Address": "",
+      "Postcode": "AB37 9BD",
+      "Lat": "57.4221557",
+      "Lng": "-3.3103447"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3103447", "57.4221557"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenfiddich Distillery",
+      "Owner": "William Grant & Sons Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.glenfiddich.com/",
+      "Address": "",
+      "Postcode": "AB55 4DH",
+      "Lat": "57.4558506",
+      "Lng": "-3.1269154"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1269154", "57.4558506"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenglassaugh Distillery",
+      "Owner": "Brown-Forman Corporation",
+      "Description": "Highland Malt",
+      "Url": "https://www.glenglassaugh.com/en-gb/",
+      "Address": "",
+      "Postcode": "AB45 2SQ",
+      "Lat": "57.6781254",
+      "Lng": "-2.7373627"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.7373627", "57.6781254"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glengoyne Distillery",
+      "Owner": "Ian Macleod Distillers",
+      "Description": "Highland Malt",
+      "Url": "https://www.glengoyne.com/",
+      "Address": "",
+      "Postcode": "G63 9LB",
+      "Lat": "56.0124076",
+      "Lng": "-4.3540356"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.3540356", "56.0124076"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glengyle Distillery",
+      "Owner": "J & A Mitchell & Co",
+      "Description": "Campbeltown",
+      "Url": "https://kilkerran.scot/",
+      "Address": "",
+      "Postcode": "PA28 6EX",
+      "Lat": "55.4264836",
+      "Lng": "-5.6092755"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.6092755", "55.4264836"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenkinchie Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Lowland Malt",
+      "Url": "https://www.malts.com/en-gb/distilleries/glenkinchie/",
+      "Address": "",
+      "Postcode": "EH34 5ET",
+      "Lat": "55.8880755",
+      "Lng": "-2.8905791"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.8905791", "55.8880755"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "The Glenlivet Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.theglenlivet.com/en-UK",
+      "Address": "",
+      "Postcode": "AB37 9BD",
+      "Lat": "57.3434444",
+      "Lng": "-3.3385562"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3385562", "57.3434444"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenlossie Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV30 3SS",
+      "Lat": "57.6221315",
+      "Lng": "-3.3553887"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3553887", "57.6221315"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenmorangie Distillery",
+      "Owner": "Glenmorangie Company Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.glenmorangie.com/en-us",
+      "Address": "",
+      "Postcode": "IV19 1PZ",
+      "Lat": "57.8238996",
+      "Lng": "-4.0761731"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.0761731", "57.8238996"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenrothes Distillery",
+      "Owner": "Edrington ",
+      "Description": "Speyside Malt",
+      "Url": "https://www.theglenrothes.com/en",
+      "Address": "",
+      "Postcode": "AB38 7AA",
+      "Lat": "57.5270172",
+      "Lng": "-3.2112181"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2112181", "57.5270172"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glentauchers Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.gordonandmacphail.com/our-whiskies/distilleries/glentauchers/",
+      "Address": "",
+      "Postcode": "AB55 6YL",
+      "Lat": "57.5320182",
+      "Lng": "-3.0522903"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0522903", "57.5320182"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Glenturret Distillery",
+      "Owner": "The Glenturret",
+      "Description": "Highland Malt",
+      "Url": "https://www.theglenturret.com/",
+      "Address": "",
+      "Postcode": "PH7 4HA",
+      "Lat": "56.3924235",
+      "Lng": "-3.8603535"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.8603535", "56.3924235"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "GlenWyvis Distillery",
+      "Owner": "GlenWyvis Distillery Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://glenwyvis.com/",
+      "Address": "",
+      "Postcode": "IV15 9UF",
+      "Lat": "57.6485994",
+      "Lng": "-4.5119994"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.5119994", "57.6485994"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Isle of Harris Distillery",
+      "Owner": "Isle of Harris Distillers Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.harrisdistillery.com/",
+      "Address": "",
+      "Postcode": "HS3 3DJ",
+      "Lat": "57.8979676",
+      "Lng": "-6.8055574"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.8055574", "57.8979676"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Highland Park Distillery",
+      "Owner": "Edrington",
+      "Description": "Highland Malt",
+      "Url": "https://www.highlandparkwhisky.com/distillery/",
+      "Address": "",
+      "Postcode": "KW15 1SU",
+      "Lat": "58.9666110",
+      "Lng": "-2.9507274"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.9507274", "58.9666110"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "InchDairnie Distillery",
+      "Owner": "InchDairnie Distillery Ltd.",
+      "Description": "Lowland Malt",
+      "Url": "http://inchdairniedistillery.com/",
+      "Address": "",
+      "Postcode": "KY6 2RX",
+      "Lat": "56.1821555",
+      "Lng": "-3.2116438"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2116438", "56.1821555"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Inchgower Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-row/our-whisky-collection/inchgower/",
+      "Address": "",
+      "Postcode": "AB56 5AB",
+      "Lat": "57.6616988",
+      "Lng": "-2.9631941"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.9631941", "57.6616988"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Invergordon Distillery",
+      "Owner": "Whyte and Mackay Ltd",
+      "Description": "Grain Whisky",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV18 0HP",
+      "Lat": "57.6940534",
+      "Lng": "-4.1591335"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.1591335", "57.6940534"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lochranza Distillery",
+      "Owner": "Isle of Arran Distillers Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://www.arranwhisky.com/",
+      "Address": "",
+      "Postcode": "KA27 8HJ",
+      "Lat": "55.6559703",
+      "Lng": "-5.2704296"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.2704296", "55.6559703"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Isle of Jura Distillery",
+      "Owner": "Whyte and Mackay Ltd",
+      "Description": "Highland Malt",
+      "Url": "https://jurawhisky.com/en/distillery/",
+      "Address": "",
+      "Postcode": "PA60 7XT",
+      "Lat": "55.8325385",
+      "Lng": "-5.9541250"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.9541250", "55.8325385"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Kilchoman Distillery",
+      "Owner": "Kilchoman Distillery Co Ltd",
+      "Description": "Islay Malt",
+      "Url": "https://kilchomandistillery.com/",
+      "Address": "",
+      "Postcode": "PA49 7UT",
+      "Lat": "55.7975053",
+      "Lng": "-6.3974702"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.3974702", "55.7975053"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Kingsbarns Distillery",
+      "Owner": "Kingsbarns Company of Distillers Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://www.kingsbarnsdistillery.com/",
+      "Address": "",
+      "Postcode": "KY16 8QE",
+      "Lat": "56.2845537",
+      "Lng": "-2.6336988"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.6336988", "56.2845537"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Kininvie Distillery",
+      "Owner": "William Grant & Sons Ltd",
+      "Description": "Speyside Malt",
+      "Url": "http://www.williamgrant.com/",
+      "Address": "",
+      "Postcode": "AB55 4BB",
+      "Lat": "57.4585782",
+      "Lng": "-3.1310896"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1310896", "57.4585782"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Knockando Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-gb/our-whisky-collection/knockando/",
+      "Address": "",
+      "Postcode": "AB38 7RT",
+      "Lat": "57.4468393",
+      "Lng": "-3.3404865"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3404865", "57.4468393"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Knockdhu Distillery",
+      "Owner": "Inver House Distillers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://ancnoc.com/the-distillery/",
+      "Address": "",
+      "Postcode": "AB54 7LJ",
+      "Lat": "57.5612446",
+      "Lng": "-2.7672353"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.7672353", "57.5612446"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lagavulin Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Islay Malt",
+      "Url": "https://www.malts.com/en-row/distilleries/lagavulin/",
+      "Address": "",
+      "Postcode": "PA42 7DZ",
+      "Lat": "55.6337832",
+      "Lng": "-6.1362547"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.1362547", "55.6337832"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Laphroaig Distillery",
+      "Owner": "Beam Suntory",
+      "Description": "Islay Malt",
+      "Url": "https://www.laphroaig.com/",
+      "Address": "",
+      "Postcode": "PA42 7DU",
+      "Lat": "55.6345030",
+      "Lng": "-6.1496743"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.1496743", "55.6345030"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lindores Abbey Distillery",
+      "Owner": "Lindores Distilling Company Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://lindoresabbeydistillery.com/",
+      "Address": "",
+      "Postcode": "KY14 6HH",
+      "Lat": "56.3547967",
+      "Lng": "-3.2151129"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2151129", "56.3547967"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Linkwood Distillery",
+      "Owner": "Diageo ",
+      "Description": "Speyside malt",
+      "Url": "https://www.malts.com/en-row/our-whisky-collection/linkwood/",
+      "Address": "",
+      "Postcode": "IV30 3RD ",
+      "Lat": "57.6221315",
+      "Lng": "-3.3553887"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3553887", "57.6221315"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Loch Lomond Distillery",
+      "Owner": "Loch Lomond Group ",
+      "Description": "Highland Malt",
+      "Url": "https://www.lochlomondwhiskies.com/distillery/",
+      "Address": "",
+      "Postcode": "G83 0TL ",
+      "Lat": "55.9935506",
+      "Lng": "-4.5760824"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.5760824", "55.9935506"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Loch Lomond Distillery (1)",
+      "Owner": "Loch Lomond Group ",
+      "Description": "Grain Whisky and Highland Malt",
+      "Url": "https://www.lochlomondwhiskies.com/distillery/",
+      "Address": "",
+      "Postcode": "G83 0TL ",
+      "Lat": "55.9935507",
+      "Lng": "-4.5760824"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.5760824", "55.9935507"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lone Wolf Distillery",
+      "Owner": "BrewDog ",
+      "Description": "Highland Malt",
+      "Url": "https://www.lonewolfspirits.com/distillery",
+      "Address": "",
+      "Postcode": "AB41 8BX ",
+      "Lat": "57.3700312",
+      "Lng": "-2.0532178"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.0532178", "57.3700312"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Longmorn Distillery",
+      "Owner": "Chivas Brothers ",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV30 3SJ ",
+      "Lat": "57.6221315",
+      "Lng": "-3.3553887"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3553887", "57.6221315"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "The Macallan Distillery",
+      "Owner": "Edrington ",
+      "Description": "Speyside Malt",
+      "Url": "https://www.themacallan.com/en/distillery",
+      "Address": "",
+      "Postcode": "AB38 9RX ",
+      "Lat": "57.4828355",
+      "Lng": "-3.2081608"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2081608", "57.4828355"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "MacDuff Distillery",
+      "Owner": "John Dewar & Sons ",
+      "Description": "Highland Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "AB45 3JT ",
+      "Lat": "57.6544342",
+      "Lng": "-2.5120136"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.5120136", "57.6544342"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Mannochmore Distillery",
+      "Owner": "Diageo ple ",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV30 3SS ",
+      "Lat": "57.6221315",
+      "Lng": "-3.3553887"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3553887", "57.6221315"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Ncn'ean Distillery",
+      "Owner": "Drimmin Distillery Company ",
+      "Description": "Highland Malt",
+      "Url": "https://www.ncnean.com/",
+      "Address": "",
+      "Postcode": "PA80 5XZ ",
+      "Lat": "56.5890141",
+      "Lng": "-5.9259324"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.9259324", "56.5890141"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Miltonduff Distillery",
+      "Owner": "Chivas Brothers ",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV30 8TQ",
+      "Lat": "57.6253818",
+      "Lng": "-3.3664898"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3664898", "57.6253818"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Mortlach Distillery",
+      "Owner": "Diageo plc ",
+      "Description": "Speyside Malt",
+      "Url": "http://www.mortlach.com/",
+      "Address": "",
+      "Postcode": "AB55 4DP ",
+      "Lat": "57.4463503",
+      "Lng": "-3.1103985"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.1103985", "57.4463503"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "North British Distillery",
+      "Owner": "North British Distillery Company Ltd ",
+      "Description": "Grain Whisky",
+      "Url": "https://www.thenorthbritish.co.uk/",
+      "Address": "",
+      "Postcode": "EH11 2PX ",
+      "Lat": "55.9401148",
+      "Lng": "-3.2353057"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2353057", "55.9401148"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Oban Distillery",
+      "Owner": "Diageo plc ",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-row/distilleries/oban/",
+      "Address": "",
+      "Postcode": "PA34 5NH ",
+      "Lat": "56.4150532",
+      "Lng": "-5.4720715"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.4720715", "56.4150532"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Pulteney Distillery",
+      "Owner": "Inver House Distillers ",
+      "Description": "Highland Malt",
+      "Url": "https://www.oldpulteney.com/",
+      "Address": "",
+      "Postcode": "KW1 5HE ",
+      "Lat": "58.4369562",
+      "Lng": "-3.0836877"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0836877", "58.4369562"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Isle of Raasay Distillery",
+      "Owner": "R&B Distillers ",
+      "Description": "Highland Malt",
+      "Url": "https://raasaydistillery.com/",
+      "Address": "",
+      "Postcode": "IV40 8PB ",
+      "Lat": "57.3574614",
+      "Lng": "-6.0729865"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.0729865", "57.3574614"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Roseisle Distillery",
+      "Owner": "Diageo plc ",
+      "Description": "Speyside Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV30 5YP ",
+      "Lat": "57.6725945",
+      "Lng": "-3.4826556"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.4826556", "57.6725945"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Royal Brackla Distillery",
+      "Owner": "John Dewar & Sons ",
+      "Description": "Highland Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV12 5QY",
+      "Lat": "57.5410209",
+      "Lng": "-3.9086550"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.9086550", "57.5410209"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Royal Lochnagar Distillery",
+      "Owner": "Diageo plc ",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-row/distilleries/royal-lochnagar/",
+      "Address": "",
+      "Postcode": "AB35 5TB ",
+      "Lat": "57.0289286",
+      "Lng": "-3.2228232"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2228232", "57.0289286"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Scapa Distillery",
+      "Owner": "Chivas Brothers ",
+      "Description": "Highland Malt",
+      "Url": "http://scapawhisky.com/",
+      "Address": "",
+      "Postcode": "KW15 1SE ",
+      "Lat": "58.9632797",
+      "Lng": "-3.0020706"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.0020706", "58.9632797"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Speyburn Distillery",
+      "Owner": "Inverhouse Distillers ",
+      "Description": "Highland Malt",
+      "Url": "https://www.speyburn.com/",
+      "Address": "",
+      "Postcode": "AB38 7AG ",
+      "Lat": "57.5520737",
+      "Lng": "-3.2148068"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.2148068", "57.5520737"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Speyside Distillery",
+      "Owner": "Speyside Distillers Co ",
+      "Description": "Speyside malt",
+      "Url": "https://speysidedistillery.co.uk/",
+      "Address": "",
+      "Postcode": "PH21 1NS ",
+      "Lat": "57.0737388",
+      "Lng": "-4.0157414"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.0157414", "57.0737388"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Springbank Distillery",
+      "Owner": "J & A Mitchell & Co ",
+      "Description": "Campbeltown",
+      "Url": "http://springbank.scot/",
+      "Address": "",
+      "Postcode": "PA28 6ET ",
+      "Lat": "55.4255922",
+      "Lng": "-5.6097869"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.6097869", "55.4255922"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Starlaw Distillery",
+      "Owner": "Glen Turner Distillery ",
+      "Description": "Grain Whisky",
+      "Url": "",
+      "Address": "",
+      "Postcode": "EH47 7BW ",
+      "Lat": "55.8904304",
+      "Lng": "-3.5952582"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.5952582", "55.8904304"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Strathclyde Distillery",
+      "Owner": "Chivas Brothers ",
+      "Description": "Grain Whisky",
+      "Url": "https://www.chivasbrothers.com/",
+      "Address": "",
+      "Postcode": "G5 0QB ",
+      "Lat": "55.8484677",
+      "Lng": "-4.2409851"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.2409851", "55.8484677"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Strathearn Distillery",
+      "Owner": "Douglas Laing & Co",
+      "Description": "Highland Malt",
+      "Url": "https://www.strathearndistillery.com/",
+      "Address": "",
+      "Postcode": "PH1 3QX",
+      "Lat": "56.3996031",
+      "Lng": "-3.6221630"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.6221630", "56.3996031"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Strathisla Distillery",
+      "Owner": "Chivas Brothers Ltd",
+      "Description": "Speyside Malt",
+      "Url": "https://www.maltwhiskydistilleries.com/strathisla/",
+      "Address": "",
+      "Postcode": "AB55 5BS ",
+      "Lat": "57.5460552",
+      "Lng": "-2.9533575"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.9533575", "57.5460552"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Strathmill Distillery",
+      "Owner": "Diageo ",
+      "Description": "Speyside Malt",
+      "Url": "https://www.malts.com/en-row/our-whisky-collection/strathmill/",
+      "Address": "",
+      "Postcode": "AB55 5DQ ",
+      "Lat": "57.5409308",
+      "Lng": "-2.9604667"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.9604667", "57.5409308"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Talisker Distillery",
+      "Owner": "Diageo plc ",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-row/distilleries/talisker/",
+      "Address": "",
+      "Postcode": "IV47 8SR ",
+      "Lat": "57.3006981",
+      "Lng": "-6.3533314"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.3533314", "57.3006981"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tamdhu Distillery",
+      "Owner": "Ian Macleod Distillers ",
+      "Description": "Speyside Malt",
+      "Url": "https://www.tamdhu.com/",
+      "Address": "",
+      "Postcode": "AB38 7RP ",
+      "Lat": "57.4477909",
+      "Lng": "-3.3579684"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3579684", "57.4477909"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tamnavulin Distillery",
+      "Owner": "Whyte & Mackay ",
+      "Description": "Speyside Malt",
+      "Url": "https://www.tamnavulinwhisky.com/the-distillery/",
+      "Address": "",
+      "Postcode": "AB37 9JA ",
+      "Lat": "57.3189856",
+      "Lng": "-3.3068213"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.3068213", "57.3189856"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Teaninich Distllery",
+      "Owner": "Diageo plc",
+      "Description": "Highland Malt",
+      "Url": "",
+      "Address": "",
+      "Postcode": "IV17 0XB",
+      "Lat": "57.6917359",
+      "Lng": "-4.2608550"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.2608550", "57.6917359"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tobermory Distillery",
+      "Owner": "Distell International ",
+      "Description": "Highland Malt",
+      "Url": "http://tobermorydistillery.com/",
+      "Address": "",
+      "Postcode": "PA75 6NR",
+      "Lat": "56.6194188",
+      "Lng": "-6.0686126"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-6.0686126", "56.6194188"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tomatin Distillery",
+      "Owner": "Tomatin Distillery Company ",
+      "Description": "Highland Malt",
+      "Url": "http://www.tomatin.com/",
+      "Address": "",
+      "Postcode": "IV13 7YT",
+      "Lat": "57.3471443",
+      "Lng": "-4.0386901"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.0386901", "57.3471443"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tomintoul Distillery",
+      "Owner": "Angus Dundee Distillers plc",
+      "Description": "Speyside Malt",
+      "Url": "http://www.tomintoulwhisky.com/",
+      "Address": "",
+      "Postcode": "AB37 9AQ",
+      "Lat": "57.3086135",
+      "Lng": "-3.4302788"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.4302788", "57.3086135"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Torabhaig Distillery",
+      "Owner": "Mossburn Distillers ",
+      "Description": "Highland Malt",
+      "Url": "https://torabhaig.com/",
+      "Address": "",
+      "Postcode": "IV44 8RE",
+      "Lat": "57.1241980",
+      "Lng": "-5.8855465"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.8855465", "57.1241980"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tormore Distillery",
+      "Owner": "Chivas Brothers ",
+      "Description": "Speyside Malt",
+      "Url": "http://www.tormoredistillery.com/",
+      "Address": "",
+      "Postcode": "PH26 3LR",
+      "Lat": "57.3883687",
+      "Lng": "-3.4099870"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.4099870", "57.3883687"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tullibardine Distillery",
+      "Owner": "Tullibardine Ltd ",
+      "Description": "Highland Malt",
+      "Url": "http://www.tullibardine.com/",
+      "Address": "",
+      "Postcode": "PH4 1QG",
+      "Lat": "56.2586589",
+      "Lng": "-3.7826586"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.7826586", "56.2586589"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Wolfburn Distillery",
+      "Owner": "Aurora Brewing ",
+      "Description": "Highland Malt",
+      "Url": "https://wolfburn.com/",
+      "Address": "",
+      "Postcode": "KW14 7XW",
+      "Lat": "58.5937370",
+      "Lng": "-3.5615002"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.5615002", "58.5937370"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lagg Distillery",
+      "Owner": "Isle of Arran Distillery Ltd",
+      "Description": "Highland Malt",
+      "Url": "http://www.laggwhisky.com/",
+      "Address": "",
+      "Postcode": "KA27 8PG",
+      "Lat": "55.45073",
+      "Lng": "-5.23639"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-5.23639", "55.45073"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bonnington Distillery",
+      "Owner": "Halewood Wines & Spirits",
+      "Description": "Lowland Malt",
+      "Url": "https://crabbiewhisky.com/",
+      "Address": "Bonnington Road Lane\r\nEdinburgh",
+      "Postcode": "EH6 7BD",
+      "Lat": "55.97428",
+      "Lng": "-3.16592"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.16592", "55.97428"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Deeside Distillery",
+      "Owner": "Deeside Brewery & Distillery Ltd",
+      "Description": "Highland Malt",
+      "Url": "http://www.deesidedistillery.net/",
+      "Address": "",
+      "Postcode": "AB31 5QB",
+      "Lat": "57.06661",
+      "Lng": "-2.48574"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-2.48574", "57.06661"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Holyrood Distillery",
+      "Owner": "Holyrood Distillery",
+      "Description": "Lowland Malt",
+      "Url": "https://www.holyrooddistillery.co.uk",
+      "Address": "",
+      "Postcode": "EH8 9SH",
+      "Lat": "55.94327",
+      "Lng": "-3.17756"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.17756", "55.94327"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Brora Distillery",
+      "Owner": "Diageo plc",
+      "Description": "Highland Malt",
+      "Url": "https://www.malts.com/en-gb/distilleries/brora",
+      "Address": "",
+      "Postcode": "KW9 6LR",
+      "Lat": "58.0237374",
+      "Lng": "-3.8703362"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.8703362", "58.0237374"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Falkirk Distillery",
+      "Owner": "Falkirk Distillery Company Ltd",
+      "Description": "Lowland Malt",
+      "Url": "https://www.falkirkdistillery.com/",
+      "Address": "Grandsable Road\r\nFalkirk",
+      "Postcode": "FK2 0WA",
+      "Lat": "55.99491",
+      "Lng": "-3.72517"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-3.72517", "55.99491"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lochlea Distillery",
+      "Owner": "Lochlea Distilling Company Ltd.",
+      "Description": "Lowland malt",
+      "Url": "https://www.lochleadistillery.com/",
+      "Address": "Craigie\r\nKilmarnock",
+      "Postcode": "KA1 5NN",
+      "Lat": "55.58974",
+      "Lng": "-4.43970"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.43970", "55.58974"]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Jackton Distillery",
+      "Owner": "Raer Scotch Whisky",
+      "Description": "Lowland malt",
+      "Url": "https://raer.co.uk/",
+      "Address": "Hayhill Road\r\nJackton",
+      "Postcode": "G74 5AN",
+      "Lat": "55.75644",
+      "Lng": "-4.24393"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": ["-4.24393", "55.75644"]
+    }
+  }]
+}
