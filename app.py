@@ -11,9 +11,6 @@ st.title("WHISKY DISTILLERIES AND THEIR CLOSEST TRAIN STOP DISTANCE")
 
 
 @st.cache_data
-def load_powerplants():
-    url = "https://raw.githubusercontent.com/PyPSA/powerplantmatching/master/powerplants.csv"
-    return pd.read_csv(url, index_col=0)
 
 def load_distrains():
     return gpd.read_file("output/distilleries_result.geojson", index_col=0)
@@ -21,8 +18,6 @@ def load_distrains():
 
 ppl = load_distrains()
 
-
-#ppl = load_powerplants()
 
 with st.sidebar:
     st.title("DISTRAINS")
@@ -40,7 +35,13 @@ with st.sidebar:
 
 st.warning(":building_construction: Sorry, this page is still under construction")
 
-#hover_data = ['Name', 'Fueltype', 'Technology', "Capacity", 'Efficiency', 'DateIn']
+hover_data = {'Name': False,
+              'Description': True, 
+              'Trainstop': True, 
+              'Distance in m': True,
+              'lat': False,
+              'lon': False,
+              }
 
 df = ppl.query("Description == @tech")
 df['lon'] = df['geometry'].x
@@ -59,11 +60,12 @@ if not df.empty:
         size="Distance in m",
         zoom=5,
         height=700,
-        #hover_data=hover_data,
+        hover_data=hover_data,
+        hover_name="Name",
         #range_color=(1900, 2022),
     )
 
     st.plotly_chart(fig, use_container_width=True)
 
 else:
-    st.error("Sorry, no power plants to display!")
+    st.error("Sorry, no data to display!")
