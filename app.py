@@ -29,8 +29,8 @@ with st.sidebar:
         ppl.Description.unique(),
     )
 
-    start, end = st.slider(
-        "Range of commissioning years", 1900, 2022, (1900, 2022), step=1, help="Pick years!"
+    dist_min, dist_max = st.slider(
+        "Range of distance", 0, 130000, (0, 130000), step=1, help="Pick distance!"
     )
 
     st.markdown("Map Adjustments")
@@ -42,14 +42,15 @@ with st.sidebar:
 st.warning(":building_construction: Sorry, this page is still under construction")
 
 hover_data = {'Name': False,
-              'Description': True, 
-              'Trainstop': True, 
-              'Distance in m': True,
-              'lat': False,
-              'lon': False,
-              }
+            'Description': True, 
+            'Trainstop': True, 
+            'Distance in m': True,
+            'lat': False,
+            'lon': False,
+            'size': False,
+            }
 
-df = ppl.query("Description == @tech")
+df = ppl.query("Description == @tech and `Distance in m` >= @dist_min and `Distance in m` <= @dist_max")
 df['lon'] = df['geometry'].x
 df['lat'] = df['geometry'].y
 df['size'] = 20
