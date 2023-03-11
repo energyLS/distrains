@@ -33,6 +33,12 @@ with st.sidebar:
         "Range of commissioning years", 1900, 2022, (1900, 2022), step=1, help="Pick years!"
     )
 
+    st.markdown("Map Adjustments")
+
+    size = st.slider(
+        "Size of the bubbles", 5, 20, (10), step=1, help="Pick a size!"
+    )
+
 st.warning(":building_construction: Sorry, this page is still under construction")
 
 hover_data = {'Name': False,
@@ -46,6 +52,7 @@ hover_data = {'Name': False,
 df = ppl.query("Description == @tech")
 df['lon'] = df['geometry'].x
 df['lat'] = df['geometry'].y
+df['size'] = 20
 
 #df = ppl.query("Fueltype == @tech and DateIn >= @start and DateIn <= @end")
 
@@ -57,7 +64,8 @@ if not df.empty:
         mapbox_style="carto-darkmatter",
         color="Distance in m",
         color_continuous_scale=[[0, '#00441b'], [0.5, '#72c375'], [1, 'white']],
-        size="Distance in m",
+        size="size",
+        size_max=size,
         zoom=5,
         height=700,
         hover_data=hover_data,
