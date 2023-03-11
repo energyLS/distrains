@@ -3,4 +3,5 @@
 *.qgz
 
 # Folders
-web
+web/
+plots/
