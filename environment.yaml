@@ -1,0 +1,16 @@
+name: distrains
+channels:
+  - conda-forge
+  - bioconda
+  - https://conda.anaconda.org/gurobi/linux-64
+  - https://conda.anaconda.org/gurobi/noarch
+dependencies:
+  - python>=3.8
+  - pip
+  - numpy
+  - pandas
+
+  - pip: 
+    - streamlit>=1.18
+    - pandas
+    - plotly
