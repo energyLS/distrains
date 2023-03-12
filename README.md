@@ -1,10 +1,7 @@
 # **DISTRAINS** - Whisky **DIST**illeries and their closest **TRAIN** Stop Distance
 
-Don't drink and drive! But why not taking the train to visit (all) whisky distilleries in Scotland?
-
-My research visit in Edinburgh combined with low 
-carbon public transport
-Interail Global Pass
+## Don't drink and drive! 
+But why not taking the train to visit (all) whisky distilleries in Scotland?
 
 This repository uses geodata of Scotlands train stops and
 whisky distilleries to find the
@@ -12,18 +9,20 @@ whisky distilleries to find the
 Second, the distilleries are ranked by lowest distance to the nearest train stop.
 You can find the list of distilleries and the nearest train stop in `output/distilleries_result.csv`.
 
-### Are you ready?
+## Are you ready?
 
 This analysis finds 136 distilleries, with an average walking distance of 19 km and
 a minimum distance of **383 m** and a maximum distance of **123 km** 
 between the distillery and the nearest train stop.
 25% of the distilleries are reachable within 3 km.
-If you want to visit all distilleries, you need to walk 2602.91 km: the equivalent of approx. **62 marathons**.
+If you want to visit all distilleries, you need to walk 2603 km: the equivalent of **62 marathons**.
 The amount of whisky consumed assuming 3 x 35 ml per distillery is: **14.39 litres of whisky**.
 
 Note: "Walking distance"
 
 Enjoy!
+
+![Distilleries](distilleries_rendered.pdf)
 
 ## Acknowledgements
 - Fabian Neumann?
