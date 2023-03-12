@@ -24,20 +24,30 @@ with st.sidebar:
 
     st.markdown(":+1: This dashboard visualizes the 'DISTRAINS' project")
 
+    st.header("Data Adjustments")
+
     tech = st.selectbox(
         "Whisky Type",
         ppl.Description.unique(),
     )
 
     dist_min, dist_max = st.slider(
-        "Range of distance", 0, 130000, (0, 130000), step=1, help="Pick distance!"
+        "Range of distance in m", 0, 130000, (0, 130000), step=1, help="Pick distance!"
     )
 
-    st.markdown("Map Adjustments")
+    st.header("Map Adjustments")
 
     size = st.slider(
         "Size of the bubbles", 5, 20, (10), step=1, help="Pick a size!"
     )
+
+    color_custom = st.color_picker(
+        "Color of the bubbles", '#00441b'
+    )
+
+    st.header("Documentation")
+
+    st.markdown("Find the code on [GitHub](https://github.com/energyLS/distrains).")
 
 st.warning(":building_construction: Sorry, this page is still under construction")
 
@@ -64,7 +74,8 @@ if not df.empty:
         lon="lon",
         mapbox_style="carto-darkmatter",
         color="Distance in m",
-        color_continuous_scale=[[0, '#00441b'], [0.5, '#72c375'], [1, 'white']],
+        color_continuous_scale= [[0, color_custom], [1, 'white']], #[[0, '#00441b'], [0.5, '#72c375'], [1, 'white']],
+        #color_continuous_scale= [[0, '#00441b'], [0.5, '#72c375'], [1, 'white']],
         size="size",
         size_max=size,
         zoom=5,
