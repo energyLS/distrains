@@ -22,7 +22,7 @@ Note: "Walking distance"
 
 Enjoy!
 
-![Distilleries](distilleries_rendered.pdf)
+![Distilleries](https://github.com/energyLS/distrains/blob/main/distilleries_rendered.pdf)
 
 ## Acknowledgements
 - Fabian Neumann?
