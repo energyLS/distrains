@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import geopandas as gpd
 import plotly.express as px
+import numpy as np
 
 st.set_page_config(page_title="Whisky Distilleries & Train Distances", layout="wide")
 
@@ -15,7 +16,7 @@ def load_distrains():
     return gpd.read_file("output/distilleries_result.geojson", index_col=0)
 
 
-ppl = load_distrains()
+distrains = load_distrains()
 
 
 with st.sidebar:
@@ -25,9 +26,10 @@ with st.sidebar:
 
     st.header("Data Adjustments")
 
-    tech = st.selectbox(
+    whisky_type = st.selectbox(
         "Whisky Type",
-        ppl.Description.unique(),
+        #distrains.Description.unique().insert("All"),
+        np.insert(distrains.Description.unique(), 0, "All"),
     )
 
     dist_min, dist_max = st.slider(
@@ -59,12 +61,15 @@ hover_data = {'Name': False,
             'size': False,
             }
 
-df = ppl.query("Description == @tech and `Distance in m` >= @dist_min and `Distance in m` <= @dist_max")
+if whisky_type == "All":
+    df = distrains.query("`Distance in m` >= @dist_min and `Distance in m` <= @dist_max")
+else:
+    df = distrains.query("Description == @whisky_type and `Distance in m` >= @dist_min and `Distance in m` <= @dist_max")
+
+
 df['lon'] = df['geometry'].x
 df['lat'] = df['geometry'].y
 df['size'] = 20
-
-#df = ppl.query("Fueltype == @tech and DateIn >= @start and DateIn <= @end")
 
 if not df.empty:
     fig = px.scatter_mapbox(
