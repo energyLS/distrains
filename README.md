@@ -26,13 +26,11 @@ Enjoy!
 ![Distilleries](distilleries.svg)
 
 ## Acknowledgements
-- Fabian Neumann?
-- Thanks to [@mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/)
-
-- Thanks to the [OpenStreetMap](https://www.openstreetmap.org) community for providing the data.
-- Data providers?
-https://github.com/mhamilt/completely-smashed/
-https://github.com/davwheat/uk-railway-stations
+Thanks to:
+- [@mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/)
+- [@davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations)
+- [fneum](https://github.com/fneum) for his [streamlit-tutorial](https://github.com/fneum/streamlit-tutorial) and
+- CM for her advice and support creating the rendered map `distilleries_rendered.pdf`.  
 
 ## Download, Install, and Run
 
@@ -48,7 +46,6 @@ With `pip` run:
 ```sh
 pip install -r requirements.txt
 ```
-
 
 Reproduce the results by running the Jupyter Notebook
 `processing.ipynb`.
