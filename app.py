@@ -7,7 +7,7 @@ st.set_page_config(page_title="Whisky Distilleries & Train Distances", layout="w
 
 # st.balloons()
 
-st.title("WHISKY DISTILLERIES AND THE DISTANCE TO THEIR CLOSEST TRAIN STOP")
+st.title("WHISKY DISTILLERIES AND THE DISTANCE TO THEIR CLOSEST TRAIN STOPS")
 
 @st.cache_data
 

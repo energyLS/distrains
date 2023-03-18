@@ -1,4 +1,4 @@
-# **DISTRAINS** - Whisky **DIST**illeries and the distance to their closest **TRAIN** Stop
+# **DISTRAINS** - Whisky **DIST**illeries and the distance to their closest **TRAIN** Stops
 
 ## Don't drink and drive! 
 But, why not travel by train to see (every) whisky distillery in Scotland?
