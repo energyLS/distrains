@@ -7,8 +7,7 @@ st.set_page_config(page_title="Whisky Distilleries & Train Distances", layout="w
 
 # st.balloons()
 
-st.title("WHISKY DISTILLERIES AND THEIR CLOSEST TRAIN STOP DISTANCE")
-
+st.title("WHISKY DISTILLERIES AND THE DISTANCE TO THEIR CLOSEST TRAIN STOP")
 
 @st.cache_data
 
@@ -22,7 +21,7 @@ ppl = load_distrains()
 with st.sidebar:
     st.title("DISTRAINS")
 
-    st.markdown(":+1: This dashboard visualizes the 'DISTRAINS' project")
+    st.markdown("This dashboard visualizes the 'DISTRAINS' project.")
 
     st.header("Data Adjustments")
 
@@ -42,14 +41,14 @@ with st.sidebar:
     )
 
     color_custom = st.color_picker(
-        "Color of the bubbles", '#00441b'
+        "Color of the bubbles", '#00441b', help="Pick a color!"
     )
 
     st.header("Documentation")
 
-    st.markdown("Find the code on [GitHub](https://github.com/energyLS/distrains).")
+    st.markdown("Find the code and some fun statistics on [GitHub](https://github.com/energyLS/distrains).")
 
-st.warning(":building_construction: Sorry, this page is still under construction")
+#st.warning(":building_construction: Sorry, this page is still under construction")
 
 hover_data = {'Name': False,
             'Description': True, 
