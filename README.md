@@ -1,7 +1,7 @@
 # **DISTRAINS** - Whisky **DIST**illeries and the distance to their closest **TRAIN** Stop
 
 ## Don't drink and drive! 
-But why not taking the train to visit (all) whisky distilleries in Scotland?
+But, why not travel by train to see (every) whisky distillery in Scotland?
 
 This repository uses geodata of Scotlands train stops and
 whisky distilleries to find the
@@ -9,6 +9,10 @@ whisky distilleries to find the
 Second, the distilleries are ranked by lowest distance to the nearest train stop.
 You can find the list of distilleries and the nearest train stop in `output/distilleries_result.csv` or 
 georeferenced in `output/distilleries_result.geojson`.
+
+To determine the **nearest** railway station to each distillery, this repository uses geodata of Scotland's train stops and whisky distilleries.
+Second, the distilleries are ranked based on their proximity to the closest train station.
+The list of distilleries and their closest train station may be found in the files `output/distilleries_result.csv` and `output/distilleries_result.geojson`, respectively.
 
 ## Are you ready?
 
@@ -27,8 +31,8 @@ Enjoy!
 
 ## Acknowledgements
 Thanks to:
-- [@mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/)
-- [@davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations)
+- [mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/),
+- [davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations),
 - [fneum](https://github.com/fneum) for his [streamlit-tutorial](https://github.com/fneum/streamlit-tutorial) and
 - CM for her advice and support creating the rendered map `distilleries_rendered.pdf`.  
 
@@ -41,10 +45,10 @@ git clone https://github.com/energyLS/distrains.git
 ```
 
 
-With `pip` run:
+With `conda` run:
 
 ```sh
-pip install -r requirements.txt
+conda env create -f environment.yaml
 ```
 
 Reproduce the results by running the Jupyter Notebook
