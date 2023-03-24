@@ -3,16 +3,9 @@
 ## Don't drink and drive! 
 But, why not travel by train to see (every) whisky distillery in Scotland?
 
-This repository uses geodata of Scotlands train stops and
-whisky distilleries to find the
-**nearest** train stop to each distillery.
-Second, the distilleries are ranked by lowest distance to the nearest train stop.
-You can find the list of distilleries and the nearest train stop in `output/distilleries_result.csv` or 
-georeferenced in `output/distilleries_result.geojson`.
-
 To determine the **nearest** railway station to each distillery, this repository uses geodata of Scotland's train stops and whisky distilleries.
 Second, the distilleries are ranked based on their proximity to the closest train station.
-The list of distilleries and their closest train station may be found in the files `output/distilleries_result.csv` and `output/distilleries_result.geojson`, respectively.
+The list of distilleries and their closest train station may be found in the files `output/distilleries_result.csv` and georeferenced in `output/distilleries_result.geojson`, respectively.
 
 ## Are you ready?
 
@@ -27,14 +20,15 @@ Note: The distance listed here is the airline distance.
 
 Enjoy!
 
-![Distilleries](plots/distilleries.png)
+![Distilleries](https://raw.githubusercontent.com/energyLS/distrains/blob/main/plots/distilleries.png)
+
 
 ## Acknowledgements
 Thanks to:
 - [mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/),
 - [davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations),
 - [fneum](https://github.com/fneum) for his [streamlit-tutorial](https://github.com/fneum/streamlit-tutorial) and
-- CM for her advice and support creating the rendered map `distilleries_rendered.pdf`.  
+- CM for her advice and support creating the rendered map `distilleries.pdf`.  
 
 ## Download, Install, and Run
 
