@@ -27,7 +27,7 @@ Note: The distance listed here is the airline distance.
 
 Enjoy!
 
-![Distilleries](distilleries.svg)
+![Distilleries](plots/distilleries.png)
 
 ## Acknowledgements
 Thanks to:
