@@ -21,13 +21,7 @@ Note: The distance listed here is the airline distance.
 Enjoy!
 
 ![Distilleries](https://raw.githubusercontent.com/energyLS/distrains/main/plots/distilleries.png?token=GHSAT0AAAAAABYA4O645ELOTLC2J4UH7DESZA6DYNQ)
-
-## Acknowledgements
-Thanks to:
-- [mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/),
-- [davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations),
-- [fneum](https://github.com/fneum) for his [streamlit-tutorial](https://github.com/fneum/streamlit-tutorial) and
-- CM for her advice and support creating the rendered map `distilleries.pdf`.  
+ 
 
 ## Download, Install, and Run
 
@@ -52,3 +46,14 @@ The map `distilleries_rendered.pdf` is not an output of the Jupyter Notebook but
 You can find results as a dashboard here:
 
 https://distrains.streamlit.app/
+
+## Licence
+The raw data is licensed as specified in the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/) and the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations).
+The code in this repository is licensed under the MIT License, details can be found in the file `LICENCE`.
+
+## Acknowledgements
+Thanks to:
+- [mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/),
+- [davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations),
+- [fneum](https://github.com/fneum) for his [streamlit-tutorial](https://github.com/fneum/streamlit-tutorial) and
+- CM for her advice and support creating the rendered map `distilleries.pdf`. 
