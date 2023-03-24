@@ -40,7 +40,7 @@ conda env create -f environment.yaml
 
 Reproduce the results by running the Jupyter Notebook
 `processing.ipynb`.
-The map `distilleries_rendered.pdf` is not an output of the Jupyter Notebook but created using [QGIS](https://www.qgis.org/en/site/).
+The map `plots/distilleries.pdf` is not an output of the Jupyter Notebook but created using [QGIS](https://www.qgis.org/en/site/).
 ## Live App
 
 You can find results as a dashboard here:
