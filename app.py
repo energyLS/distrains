@@ -35,7 +35,7 @@ with st.sidebar:
     st.header("Map Adjustments")
 
     size = st.slider(
-        "Size of the bubbles", 5, 20, (10), step=1, help="Pick a size"
+        "Size of the dots", 5, 15, (8), step=1, help="Pick a size"
     )
 
     color_custom = st.color_picker(
@@ -46,6 +46,7 @@ with st.sidebar:
 
     st.markdown("Find the code and some fun statistics on [GitHub](https://github.com/energyLS/distrains).")
     # Placeholder
+    st.markdown(" ")
     st.markdown(" ")
     st.markdown(" ")
     st.markdown(" ")
