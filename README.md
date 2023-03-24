@@ -20,8 +20,7 @@ Note: The distance listed here is the airline distance.
 
 Enjoy!
 
-![Distilleries](<https://raw.githubusercontent.com/energyLS/distrains/blob/main/plots/distilleries.png>)
-
+![Distilleries](plots/distilleries.svg)
 
 ## Acknowledgements
 Thanks to:
