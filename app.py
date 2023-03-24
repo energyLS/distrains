@@ -46,7 +46,9 @@ with st.sidebar:
 
     st.markdown("Find the code and some fun statistics on [GitHub](https://github.com/energyLS/distrains).")
     # Placeholder
-    st.markdown("")
+    st.markdown(" ")
+    st.markdown(" ")
+    st.markdown(" ")
 
 #st.warning(":building_construction: Sorry, this page is still under construction")
 
