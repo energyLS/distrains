@@ -15,6 +15,10 @@ def load_distrains():
 
 distrains = load_distrains()
 
+# Change Distance in m to Distance in km
+distrains['Distance in m'] = distrains['Distance in m'] / 1000
+distrains.rename(columns={'Distance in m': 'Distance in km'}, inplace=True)
+
 
 with st.sidebar:
     st.title("DISTRAINS")
@@ -29,7 +33,7 @@ with st.sidebar:
     )
 
     dist_min, dist_max = st.slider(
-        "Range of distance in m", 0, 130000, (0, 130000), step=1, help="Pick distance"
+        "Range of distance in km", 0, 130, (0, 130), step=1, help="Pick distance"
     )
 
     st.header("Map Adjustments")
@@ -56,16 +60,16 @@ with st.sidebar:
 hover_data = {'Name': False,
             'Description': True, 
             'Trainstop': True, 
-            'Distance in m': True,
+            'Distance in km': True,
             'lat': False,
             'lon': False,
             'size': False,
             }
 
 if whisky_type == "All":
-    df = distrains.query("`Distance in m` >= @dist_min and `Distance in m` <= @dist_max")
+    df = distrains.query("`Distance in km` >= @dist_min and `Distance in km` <= @dist_max")
 else:
-    df = distrains.query("Description == @whisky_type and `Distance in m` >= @dist_min and `Distance in m` <= @dist_max")
+    df = distrains.query("Description == @whisky_type and `Distance in km` >= @dist_min and `Distance in km` <= @dist_max")
 
 df['lon'] = df['geometry'].x
 df['lat'] = df['geometry'].y
@@ -77,7 +81,7 @@ if not df.empty:
         lat="lat",
         lon="lon",
         mapbox_style="carto-darkmatter",
-        color="Distance in m",
+        color="Distance in km",
         color_continuous_scale= [[0, color_custom], [1, 'white']], #[[0, '#00441b'], [0.5, '#72c375'], [1, 'white']],
         #color_continuous_scale= [[0, '#00441b'], [0.5, '#72c375'], [1, 'white']],
         size="size",
