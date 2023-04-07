@@ -1,6 +1,7 @@
 
 # Files
 *.qgz
+.md
 
 # Folders
 web/
