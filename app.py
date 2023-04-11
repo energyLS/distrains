@@ -43,7 +43,7 @@ with st.sidebar:
     )
 
     color_custom = st.color_picker(
-        "Color of the bubbles", '#00441b', help="Pick a color"
+        "Color of the dots", '#00441b', help="Pick a color"
     )
 
     st.header("Documentation")
