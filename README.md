@@ -56,4 +56,5 @@ Thanks to:
 - [mhamlit](https://github.com/mhamilt) for the distillery dataset [completely-smashed](https://github.com/mhamilt/completely-smashed/),
 - [davwheat](https://github.com/davwheat) for the train station dataset [uk-railway-stations](https://github.com/davwheat/uk-railway-stations),
 - [fneum](https://github.com/fneum) for his [streamlit-tutorial](https://github.com/fneum/streamlit-tutorial) and
-- CM for her advice and support creating the rendered map `distilleries.pdf`. 
+- CM for her advice and support creating the rendered map `distilleries.pdf`,
+- The Icon "simple pot still" by Kristel Cornell from [The Noun Project](https://thenounproject.com/browse/icons/term/simple-pot-still/), CC BY 3.0.
